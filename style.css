@@ -1,15 +1,4 @@
-/*------------------------------------------------------------------
-[Master Stylesheet]
-Theme Name: Maniva Meetup HTML5 Template
-Theme URI: http://www.templaza.com/
-Author: templaza
-Author URI: http://themeforest.net/user/templaza
-Version: 1.0
-License: GNU General Public License v2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Tags: animation, blog, bootstrap, business, corporate, css3, html5, portfolio, responsive
-------------------------------------------------------------------*/
-/**
+
 
 /**
 * Table of Contents:
@@ -2314,7 +2303,7 @@ span.tz_modal_employment {
     position: relative;
 }
 #speaker_client {
-    background-image: url("images/bk-101.png");
+  /*  background-image: url("images/bk-101.png"); */
     background-repeat: no-repeat;
     padding: 110px 0 120px;
 }
@@ -3151,7 +3140,7 @@ span.tz_meetup_infomation small i.fa {
 /* 4.18 - Breadcrumb */
 .tz-sectionBreadcrumb {
     background-color: #434758;
-    background-image: url("images/breadcrumb_meetup.png");
+    background-image: url("images/breadcrumb_meetup1.png");
     background-repeat: no-repeat;
     padding: 60px 0;
     background-size: cover;
@@ -4947,7 +4936,7 @@ aside.widget .tz-flickr a img {
 }
 .wpcf7-form .tz_meetup_wpcf7-form p input.wpcf7-submit {
     text-transform: uppercase;
-    background: #e66423;
+    background: #339933;
     border: none;
     border-radius: 3px;
     -webkit-border-radius: 3px;
@@ -5783,5 +5772,6 @@ aside.widget h3.module-title:before {
         float: none!important;
         margin: 10px 0;
     }
+	
 
 }
